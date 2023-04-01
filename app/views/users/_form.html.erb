@@ -18,7 +18,8 @@
 
   <div class="field">
     <%= form.label :portrait %>
-    <%= form.file_field :portrait %>
+    <%# <%= form.file_field :portrait %1> %>
+    <%= form.file_field :portrait, direct_upload: true %>
   </div>
 
   <div class="actions">
