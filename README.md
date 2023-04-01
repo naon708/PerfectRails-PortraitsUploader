@@ -1,4 +1,5 @@
 # Active Storage
+https://railsguides.jp/active_storage_overview.html
 
 ## 2つのモデルで構成される
 
