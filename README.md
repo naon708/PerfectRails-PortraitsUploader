@@ -1,5 +1,6 @@
 # Active Storage
-https://railsguides.jp/active_storage_overview.html
+- https://railsguides.jp/active_storage_overview.html
+- https://gorails.com/tool_categories/file-uploading/tools
 
 ## 2つのモデルで構成される
 
